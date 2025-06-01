@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer works majorly on ASP .NET Core as backend technology and React<br>for front end
+Full Stack Developer
 
 
 ## 🌐 Socials:
@@ -12,13 +12,10 @@ I am a Full Stack Developer works majorly on ASP .NET Core as backend technology
 ![](https://nirzak-streak-stats.vercel.app/?user=Ghazi-work&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazi-work&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ghazi-work&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ghazi-work&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ghazi-work&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
